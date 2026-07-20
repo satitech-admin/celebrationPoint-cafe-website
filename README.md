@@ -1,2 +1,21 @@
-# celebrationPoint-cafe-website
-fully responsive cafe website for Celebration Point Cafe, Built with a clean UI, warm cafe-style design, attractive food sections, smooth scrolling, menu cards, gallery, customer reviews, table booking form, contact section, and social media links to create a professional online presence for the cafe.
+# Celebration Point Cafe Website
+
+A premium, modern, and fully responsive cafe website for **Celebration Point Cafe, Betul, Madhya Pradesh**.
+
+<p align="center">
+  <a href="https://satitech-admin.github.io/celebrationPoint-cafe-website/" target="_blank">
+    <strong>🚀 Open Live Website</strong>
+  </a>
+</p>
+
+## Features
+
+- Premium cafe-style modern UI
+- Fully responsive design for mobile, tablet, and desktop
+- Home, About, Menu, Gallery, Reviews, Booking, and Contact sections
+- Smooth scrolling and attractive layout
+- Social media and contact links
+
+## Live Demo
+
+Open here: https://satitech-admin.github.io/celebrationPoint-cafe-website/
