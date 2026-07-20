@@ -3,7 +3,15 @@
 A premium, modern, and fully responsive cafe website for **Celebration Point Cafe, Betul, Madhya Pradesh**.
 
 <p align="center">
-  <img src="./assets/preview.svg" alt="Celebration Point Cafe Website Preview" width="100%" />
+  <a href="https://satitech-admin.github.io/celebrationPoint-cafe-website/" target="_blank">
+    <img src="./assets/preview.svg" alt="Celebration Point Cafe Website Preview" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://satitech-admin.github.io/celebrationPoint-cafe-website/" target="_blank">
+    <strong>🚀 Open Live Website</strong>
+  </a>
 </p>
 
 ## Features
@@ -16,7 +24,7 @@ A premium, modern, and fully responsive cafe website for **Celebration Point Caf
 
 ## Project Preview
 
-The preview image above represents the premium cafe-style UI and warm brand experience designed for Celebration Point Cafe.
+Click the preview image or the **Open Live Website** button above to view the deployed website.
 
 ## Deployment
 
