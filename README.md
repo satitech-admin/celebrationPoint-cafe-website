@@ -19,3 +19,7 @@ A premium, modern, and fully responsive cafe website for **Celebration Point Caf
 ## Live Demo
 
 Open here: https://satitech-admin.github.io/celebrationPoint-cafe-website/
+
+## Deployment
+
+Configured for GitHub Pages deployment from the `main` branch using GitHub Actions.
